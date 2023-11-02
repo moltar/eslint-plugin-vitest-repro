@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-vitest-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roman Filippov",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "8.52.0",
+    "eslint-plugin-vitest": "0.3.8",
+    "vitest": "0.34.6"
+  }
+}
